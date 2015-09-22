@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ManillasXYZ</string>
+    <string name="action_settings">Opciones</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string name="text_leather">Cuero</string>
+    <string name="text_rope">Cuerda</string>
+    <string name="text_hammer">Martillo</string>
+    <string name="text_anchor">Ancla</string>
+
+    <string-array name="types">
+        <item>Gold</item>
+        <item>Pink Gold</item>
+        <item>Silver</item>
+        <item>Nickel</item>
+    </string-array>
+    <string name="button_show">Calcular</string>
+    <string name="message_empty_field">El campo no puede estar vacio</string>
+    <string name="message_number_format">No es un numero</string>
+    <string name="message_result">Resultado</string>
+    <string name="alert_dialog_ok">Ok</string>
+    <string name="label_amount">Cantidad</string>
+    <string name="label_material">Material</string>
+    <string name="label_pendant">Dije</string>
+    <string name="label_type">Tipo</string>
+    <string name="label_currency">Tipo de moneda</string>
+
+</resources>
